@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BoyerMoore
+comment1.params=pattern
+comment1.target=int[]\ preprocessBadCharacter(java.lang.String)
+comment2.params=pattern
+comment2.target=int[]\ preprocessGoodSuffix(java.lang.String)
+comment2.text=\r\n\ Preprocess\ the\ pattern\ and\ create\ the\ good\ suffix\ shift\ table.\r\n
+comment3.params=pattern\ text
+comment3.target=int\ search(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Search\ the\ pattern\ in\ the\ given\ text\ using\ the\ Boyer-Moore\ algorithm.\r\n
+numComments=4
