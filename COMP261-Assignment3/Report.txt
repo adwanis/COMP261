@@ -1,0 +1,12 @@
+Completed Part1 fully:
+ - completed task 1: build the graph (15)
+ -  completed task2: network the graph (35)
+
+Completed Part2 fully:
+- completed task1 build the graph: (10)
+- completed task2: Page ranks(25)
+- completed task3: find most important neighbour(15)
+
+Completed fully assignment 100%
+
+Sahil Adwani : 300655437
