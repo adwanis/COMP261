@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SearchQueueItem
+comment0.text=\r\n\ AStar\ search\ uses\ a\ priority\ queue\ of\ partial\ paths\r\n\ that\ the\ search\ is\ building.\r\n\ Each\ partial\ path\ needs\ several\ pieces\ of\ information\r\n\ to\ specify\ the\ path\ to\ that\ point,\ its\ cost\ so\ far,\ and\r\n\ its\ estimated\ total\ cost\r\n
+comment1.params=node\ edge\ lengthToNode\ estimateTotalPath
+comment1.target=SearchQueueItem(Stop,\ Edge,\ double,\ double)
+comment2.params=
+comment2.target=Stop\ getNode()
+comment3.params=
+comment3.target=Edge\ getEdge()
+comment4.params=
+comment4.target=double\ getLengthToNode()
+comment5.params=
+comment5.target=double\ getEstimateTotalPath()
+comment6.params=other
+comment6.target=int\ compareTo(SearchQueueItem)
+numComments=7

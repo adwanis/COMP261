@@ -1,0 +1,11 @@
+I have completed: 
+Part 1 fully completed.
+Part 2 fully completed.
+Part 3 fully completed.
+
+Part 4 completed (All the partial Marks bullet points). Marks for Part4 completed below:
+
+- Updated AStar Class.
+- 'The times listed in the lines.txt file and stored in the times field of the Line objects represent how many seconds the bus/train/ferry/cablecar take to get to each stop along their route'.
+-'The time to travel a walking edge is determined by the distance of the edge and Transport.WALKING_SPEED_MPS'.
+- 'A passenger always has to wait for 10 minutes for the next bus/train/ferry/cablecar, whether it is at the start of the trip, or when they are tranferring to a different bus/train/ferry/cablecar at a Stop along the route.'
